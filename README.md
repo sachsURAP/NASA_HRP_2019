@@ -1,5 +1,5 @@
 # NASA_HRP_2019
-Talk given at the 2019 NASA Human Research Program (HRP) Investigator's Workshop held in Galveston, Texas on January 22 -25, 2019. Concerns synergy theory methods applied to simulated galactic cosmic ray (GCR) mixed-field radiation. Demonstrates the use of incremental effect additivity (IEA) to screen for synergy or antagonism in mixed radiation field effects.
+Talk given at the 2019 NASA Human Research Program (HRP) Investigator's Workshop held in Galveston, Texas, January 22-25, 2019. Concerns synergy theory methods applied to simulated galactic cosmic ray (GCR) mixed-field radiation. Demonstrates the use of incremental effect additivity (IEA) to screen for synergy or antagonism in mixed radiation field effects.
 
 ## Abstract
 [PDF](https://nbviewer.jupyter.org/github/sachsURAP/NASA_HRP_2019/blob/master/hrp_abstract.pdf)
